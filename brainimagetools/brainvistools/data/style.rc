@@ -1,0 +1,39 @@
+image.cmap                 :    viridis
+
+#figure.autolayout 	        :   True
+
+#mathtext.fontset : cm
+
+pgf.texsystem 		: pdflatex
+#text.usetex         : True
+
+font.family: CMU Serif
+
+#axes.xmargin:0
+#axes.ymargin:0
+
+legend.loc           : best
+legend.frameon       : True     # if True, draw the legend on a background patch
+legend.fontsize		 : 9.6
+legend.framealpha	 : 0.9
+
+legend.numpoints     : 1        # the number of marker points in the legend line
+image.aspect : auto             # equal | auto | a number
+image.interpolation  : none   # see help(imshow) for options
+#image.origin : lower             # lower | upper
+                                   # On Windows use the full path since convert
+                                   # is also the name of a system tool.
+
+lines.linewidth   : 1.0     # line width in points
+#lines.markeredgewidth  : 0.0     # the line width around the marker symbol
+#lines.markersize  		: 4
+
+markers.fillstyle		: full # full|left|right|bottom|top|none
+
+
+
+
+
+
+
+

@@ -1,0 +1,12 @@
+pandas
+nilearn
+dipy
+PyQt5
+git+https://github.com/enthought/mayavi.git
+hcp_utils==0.1.0
+matplotlib==3.5.3
+nibabel==3.2.1
+numpy==1.23.5
+pandas==2.0.2
+scikit_learn==1.3.0
+setuptools==57.4.0
